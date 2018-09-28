@@ -1,6 +1,6 @@
 // ourfunc.cpp -- defining your own function
 #include <iostream>
-void simon(int);    // function prototype for simon()
+void simon(int);    // º¯ÊýÔ­ÐÍ simon()
 
 int main()
 {

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C++PrimerPlus源代码\Chapter 2\carrots.cpp">
+    <ClCompile Include="C++PrimerPlus源代码\Chapter 2\ourfunc.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

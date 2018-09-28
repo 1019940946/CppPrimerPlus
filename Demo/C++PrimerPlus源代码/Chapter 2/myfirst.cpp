@@ -1,12 +1,12 @@
-// myfirst.cpp--displays a message
+//显示一行信息
+#include <iostream>                           // 不含.h,C++新式标准，可以使用 namespace std
 
-#include <iostream>                           // a PREPROCESSOR directive
-int main()                                    // function header
-{                                             // start of function body
-    using namespace std;                      // make definitions visible
-    cout << "Come up and C++ me some time.";  // message
-    cout << endl;                             // start a new line
-    cout << "You won't regret it!" << endl;   // more output
+int main()                                    // 函数头
+{                                             // 
+    using namespace std;                      //引用命名空间
+    cout << "Come up and C++ me some time.";  // 信息
+    cout << endl;                             // 换行
+    cout << "You won't regret it!" << endl;   // 信息
 // If the output window closes before you can read it,
 // add the following code:
     // cout << "Press any key to continue." <<endl;
